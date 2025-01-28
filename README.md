@@ -55,4 +55,4 @@ Para construir o projeto ASP.NET Core Web API com Vue.js utilizando .NET 9, foi 
 - **Ferramentas**: Node.js, Visual Studio 2022 / Visual Studio Code, CDN
 - **Middleware**: Configuração para servir arquivos estáticos
 
-Essas tecnologias foram utilizadas para construir uma aplicação completa que combina uma API robusta com uma interface de usuário interativa. Se precisar de mais alguma coisa ou tiver dúvidas, estou aqui para ajudar!
+Essas tecnologias foram utilizadas para construir uma aplicação completa que combina uma API robusta com uma interface de usuário interativa.
