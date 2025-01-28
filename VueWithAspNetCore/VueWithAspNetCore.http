@@ -1,0 +1,6 @@
+@VueWithAspNetCore_HostAddress = http://localhost:5150
+
+GET {{VueWithAspNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
